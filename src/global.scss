@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=LXGW+WenKai+Mono+TC&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Oswald:wght@200..700&display=swap');
+
+$color-bg: #fffffe;
+$color-attention: #ffcc76;
+$color-border: #000000aa;
+$color-shadow: #0000001f;
+
+$box-shadow: 2px 2px 5px 1px $color-shadow;
+$box-shadow-small: 1px 1px 3px 1px $color-shadow;
+
+$border-unfocus: solid $color-shadow 2px;
+$border: solid $color-border 2px;
+$border-radius-small: 5px;
+$border-radius: 10px;
+
+
+$font-size-smallest: 10px;
+$font-size-smaller: 14px;
+$font-size-small: 16px;
+$font-size-medium: 18px;
+$font-size-large: 20px;
+$font-size-larger: 24px;
+$font-size-largest: 32px;
+
+$transition-fast: 0.1s;
